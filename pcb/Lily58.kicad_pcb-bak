@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 136)
+    (drawings 134)
     (tracks 1066)
     (zones 0)
     (modules 86)
@@ -4140,12 +4140,6 @@
       (net 50 "Net-(JP1-Pad1)"))
   )
 
-  (gr_text "By Richard Davey" (at 201.295 41.021) (layer B.Cu) (tstamp 5F92408D)
-    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
-  )
-  (gr_text "By Richard Davey" (at 201.422 41.021) (layer F.Cu)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
-  )
   (gr_text "Tiki 57R" (at 100.203 44.196 90) (layer B.SilkS) (tstamp 5F923FD2)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )

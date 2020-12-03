@@ -1511,6 +1511,8 @@ Wire Wire Line
 Wire Wire Line
 	5500 4900 5500 4850
 Connection ~ 5500 4850
+Wire Wire Line
+	5250 5000 5950 5000
 Text GLabel 5950 6250 2    50   Input ~ 0
 S1
 Text GLabel 5950 6450 2    50   Input ~ 0
@@ -1519,11 +1521,7 @@ Wire Wire Line
 	5950 6250 5550 6250
 Wire Wire Line
 	5550 6450 5950 6450
-Connection ~ 6100 4850
 Wire Wire Line
-	5250 5000 6000 5000
-Wire Wire Line
-	6000 5000 6000 4850
-Wire Wire Line
-	6000 4850 6100 4850
+	5950 4850 5950 5000
+Connection ~ 5950 4850
 $EndSCHEMATC
